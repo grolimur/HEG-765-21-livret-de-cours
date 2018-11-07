@@ -1,8 +1,10 @@
 # SUMMARY
 
 * [À propos](README.md)
+* [Programme](programme.md)
+* [Mode d'évaluation](evaluation.md)
 
-## PROGRAMME DU COURS
+## PROGRAMME DÉTAILLÉ DU COURS
 
 * [Bibliothécaire-formateur](S01.md)
 * [Méthodes pédagogiques](S02.md)
