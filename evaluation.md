@@ -10,19 +10,19 @@
 
 | # pts |  |
 | :-- | :--- |
-| \< 36 pts | NON ACQUIS |
-| \< 40 pts | REMÉDIATION |
-| \>= 40 pts | ACQUIS |
+| < 36 pts | NON ACQUIS |
+| < 40 pts | REMÉDIATION |
+| >= 40 pts | ACQUIS |
 
 
 ## Formation en fin de semestre
 
 |  | infos |
 | :-- | :---- |
-| :calendar: | 17 janvier 2019 |
-| :clock1030: | 45 minutes |
-| :busts_in_silhouette: | groupe de 2-3 pers. |
-| :memo: | grille d'évaluation fournie à l'avance |
+| date | 17 janvier 2019 |
+| heure | 45 minutes |
+| mode | groupe de 2-3 pers. |
+| éval. | grille d'évaluation fournie à l'avance |
 
 
 ## Activités durant le semestre
