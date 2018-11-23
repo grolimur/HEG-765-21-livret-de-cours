@@ -1,10 +1,17 @@
 SOURCES
 =======
 
+CC BY logo
+https://creativecommons.org/about/downloads/
 
+CC BY 4.0 - Font Awesome
+https://fontawesome.com/icons/book
 
-CC BY - experimental research By ProSymbols, US 
+CC BY 4.0 - Font Awesome
+https://fontawesome.com/icons/flask
+
+CC BY - experimental research By ProSymbols, US
 https://thenounproject.com/term/science/2030936/
 
-CC BY - note By Teuku Syahrizal 
+CC BY - note By Teuku Syahrizal
 https://thenounproject.com/term/note/1480969/
