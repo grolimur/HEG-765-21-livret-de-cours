@@ -5,7 +5,7 @@ Le cours **Formation des usagers en bibliothèques** (HEG-765-21) dispensé à l
 
 
 ## Objectifs du cours
-Cf. [descriptif du module 765-2](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/plan-modulaire/765-2n_descriptif_de_module_vfinale_2018-2019.pdf)
+Cf. [descriptif du module 765-2](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/plan-modulaire/765-2_descriptif_de_module_vfinale_2019-2020.pdf)
 
 Le cours permet à l’étudiant d'acquérir la capacité de concevoir des activités de formation adaptées en fonction du public visé.
 Objectifs spécifiques :
@@ -15,7 +15,7 @@ Objectifs spécifiques :
 
 ## Bibliographie de cours
 
-La biliographie de cours, collaborative et évolutive, est en ligne: [https://cest.la/7652bib2018](https://cest.la/7652bib2018)
+La biliographie de cours, collaborative et évolutive, est en ligne: [https://cest.la/7652bib2019](https://cest.la/7652bib2019)
 
 
 ## Auteur
@@ -28,7 +28,7 @@ La biliographie de cours, collaborative et évolutive, est en ligne: [https://ce
 | zotero | [zotero.org/grolimur](https://zotero.org/grolimur) |
 
 
-## Version `0.1.5.1`
+## Version `0.2RC`
 La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/heg-765-21-livret-de-cours](https://legacy.gitbook.com/book/grolimur/heg-765-21-livret-de-cours).   
 Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
 
