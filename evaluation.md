@@ -2,26 +2,26 @@
 
 | PTS | mode |
 | :-- | :--- |
-| 24 pts | formation en fin de semestre |
-| 40 pts | activités durant le semestre |
+| 30 pts | activités durant le semestre |
+| 30 pts | formation en fin de semestre |
 
 
 ## Conditions de réussite
 
 | # pts |  |
 | :-- | :--- |
-| < 36 pts | NON ACQUIS |
-| < 40 pts | REMÉDIATION |
 | >= 40 pts | ACQUIS |
+| < 40 pts | REMÉDIATION |
+| < 35 pts | NON ACQUIS |
 
 
 ## Formation en fin de semestre
 
 |  | infos |
 | :-- | :---- |
-| date | 17 janvier 2019 |
+| date | 16 janvier 2020 |
 | heure | 45 minutes |
-| mode | groupe de 2-3 pers. |
+| mode | groupe de 3 pers. |
 | éval. | grille d'évaluation fournie à l'avance |
 
 

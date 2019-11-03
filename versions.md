@@ -10,3 +10,4 @@
 | 0.1.5.1 | 26.11.2018 | corr. mineure dans une réf. sem 4 |
 | 0.1.6 | 29.11.2018 | ajout contenu sem. 5 + corr. nom |
 | 0.2RC | 3.10.2019 | mise à jour programme préliminaire 2019-2020 |
+| 0.2.1 | 3.11.2019 | ajout infos à retenir S01 + mise à jour programme |
