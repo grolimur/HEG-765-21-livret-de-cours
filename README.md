@@ -28,10 +28,7 @@ La biliographie de cours, collaborative et évolutive, est en ligne: [https://ce
 | zotero | [zotero.org/grolimur](https://zotero.org/grolimur) |
 
 
-## Version `0.2RC`
-La dernière version de ce document est disponible sur [https://legacy.gitbook.com/book/grolimur/heg-765-21-livret-de-cours](https://legacy.gitbook.com/book/grolimur/heg-765-21-livret-de-cours).   
-Vous pouvez lire le document en ligne ou le télécharger aux formats PDF, ePub ou Mobi.   
-
+## Version `0.2.1`
 L'historique complet des versions est disponible à la [fin du document](versions.md).
 
 
