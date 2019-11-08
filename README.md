@@ -28,7 +28,7 @@ La biliographie de cours, collaborative et évolutive, est en ligne: [https://ce
 | zotero | [zotero.org/grolimur](https://zotero.org/grolimur) |
 
 
-## Version `0.2.1`
+## Version `0.2.2`
 L'historique complet des versions est disponible à la [fin du document](versions.md).
 
 
