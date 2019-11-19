@@ -13,3 +13,4 @@
 | 0.2.1 | 3.11.2019 | ajout infos à retenir S01 + mise à jour programme |
 | 0.2.2 | 8.11.2019 | ajout infos à retenir S02 |
 | 0.2.3 | 15.11.2019 | màj bibliogrpahie + ajout infos à retenir S03 |
+| 0.2.3.1 | 19.11.2019 | corr. programme S06 |
