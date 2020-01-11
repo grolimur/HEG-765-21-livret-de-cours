@@ -17,3 +17,4 @@
 | 0.2.4 | 20.11.2019 | ajout infos à retenir S04 |
 | 0.2.5 | 28.11.2019 | ajout lecture complémentaires + infos à retenir S05 |
 | 0.2.8 | 9.01.2020 | ajout lecture complémentaires + infos à retenir S06 + S07 + S08 |
+| 0.2.9 | 11.01.2020 | ajout lecture complémentaires + infos à retenir S09 |
