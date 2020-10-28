@@ -18,3 +18,5 @@
 | 0.2.5 | 28.11.2019 | ajout lecture complémentaires + infos à retenir S05 |
 | 0.2.8 | 9.01.2020 | ajout lecture complémentaires + infos à retenir S06 + S07 + S08 |
 | 0.2.9 | 11.01.2020 | ajout lecture complémentaires + infos à retenir S09 |
+| 0.3RC | 18.10.2020 | mise à jour programme préliminiaire 2020-2021 |
+| 0.3 | 28.10.2020 | programme 2020-2021 prêt |

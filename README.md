@@ -1,11 +1,11 @@
 # Formation des usagers en bibliothèques
 
 ## Contexte
-Le cours **Formation des usagers en bibliothèques** (HEG-765-21) dispensé à la Haute école de gestion (HEG) de Genève, filière Information documentaire (ID). Il s'agit d'un cours à option.
+Le cours **Formation des usagers en bibliothèques** (HEG-765-21) dispensé à la Haute école de gestion (HEG) de Genève, filière Information documentaire (ID). Il s'agit d'un cours à choix.
 
 
 ## Objectifs du cours
-Cf. [descriptif du module 765-2](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/plan-modulaire/765-2_descriptif_de_module_vfinale_2019-2020.pdf)
+Cf. [descriptif du module 765-2](https://www.hesge.ch/heg/sites/default/files/formation-base/ID/plan-modulaire/765-2_descriptif_de_module_vfinale_2020-2021.pdf)
 
 Le cours permet à l’étudiant d'acquérir la capacité de concevoir des activités de formation adaptées en fonction du public visé.
 Objectifs spécifiques :
@@ -15,7 +15,7 @@ Objectifs spécifiques :
 
 ## Bibliographie de cours
 
-La biliographie de cours, collaborative et évolutive, est en ligne: [https://cest.la/7652bib2019](https://cest.la/7652bib2019)
+La biliographie de cours, collaborative et évolutive, est en ligne: [https://cest.la/7652bib2020](https://cest.la/7652bib2020)
 
 
 ## Auteur
@@ -28,7 +28,7 @@ La biliographie de cours, collaborative et évolutive, est en ligne: [https://ce
 | zotero | [zotero.org/grolimur](https://zotero.org/grolimur) |
 
 
-## Version `0.2.9`
+## Version `0.3RC`
 L'historique complet des versions est disponible à la [fin du document](versions.md).
 
 
